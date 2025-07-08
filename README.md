@@ -2,11 +2,11 @@
 
 A beautiful, interactive weather effects demo built with React, Next.js, WebGL, and Three.js. Experience realistic **rain**, **snow**, and **fog** scenes, each with unique visual effects and controls.
 
-![Weather Effects Demo](https://screen.studio/share/35MzKytb)
+![Weather Effects Demo](/public/weather-effects-demo-small.gif)
 
 ## 🚀 Demo
 
-> **Live demo:** [https://react-weather-effects.vercel.app/]
+[Live demo](https://react-weather-effects.vercel.app/)
 
 ---
 
