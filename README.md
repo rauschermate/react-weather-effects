@@ -2,10 +2,11 @@
 
 A beautiful, interactive weather effects demo built with React, Next.js, WebGL, and Three.js. Experience realistic **rain**, **snow**, and **fog** scenes, each with unique visual effects and controls.
 
+![Weather Effects Demo](/public/weather-effects-demo.mp4)
+
 ## 🚀 Demo
 
-> **Live demo:** [your-demo-link-here]  
-> _(Replace with your deployed URL if available)_
+> **Live demo:** [https://react-weather-effects.vercel.app/]
 
 ---
 
@@ -70,7 +71,12 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 - **Rain shaders & inspiration:**  
   [Lucas Bebber – RainEffect](https://github.com/codrops/RainEffect)
 - **Snow & fog inspiration:**  
-  [Add your sources if any]
+  [React three Fiber docs](https://r3f.docs.pmnd.rs/getting-started/examples)
+  [Freezing cube](https://boytchev.github.io/etudes/webgl/freezing-cube.html)
+  [Images from Unsplash](https://unsplash.com)
+  [Snow effect inspiration #1](https://codepen.io/bsehovac/pen/GPwXxq)
+  [Snow effect inspiration #2](https://codepen.io/bsehovac/full/GPwXxq)
+  [Smoke effect](https://codepen.io/daniel3toma/pen/dybjNbZ)
 
 ---
 
