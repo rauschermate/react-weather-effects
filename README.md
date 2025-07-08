@@ -6,8 +6,6 @@ A beautiful, interactive weather effects demo built with React, Next.js, WebGL, 
 
 [Live demo](https://react-weather-effects.vercel.app/)
 
----
-
 ## ✨ Features
 
 - **Rain:** Realistic WebGL rain with custom shaders, and lightning effects.
@@ -15,8 +13,6 @@ A beautiful, interactive weather effects demo built with React, Next.js, WebGL, 
 - **Fog:** Light and dense fog overlays using Three.js and custom blending.
 - **Interactive:** Switch between weather types and subtypes (e.g., storm, drizzle) with a modern UI.
 - **Responsive:** Works on desktop and mobile browsers.
-
----
 
 ## 🌈 Weather Types
 
@@ -32,8 +28,6 @@ A beautiful, interactive weather effects demo built with React, Next.js, WebGL, 
   - Light
   - Dense
 
----
-
 ## 🛠️ Technology
 
 - **React** & **Next.js** (App Router)
@@ -41,8 +35,6 @@ A beautiful, interactive weather effects demo built with React, Next.js, WebGL, 
 - **Three.js** (snow and fog effects)
 - **GSAP** (for smooth lightning and fog animations)
 - **Tailwind CSS** (for modern UI)
-
----
 
 ## 🖥️ Local Development
 
@@ -52,8 +44,6 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) in your browser.
-
----
 
 ## 🗂️ Project Structure
 
