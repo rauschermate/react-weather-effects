@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "3D demo",
+  title: "React weather effects",
   description: "by Mate Rauscher",
 };
 
