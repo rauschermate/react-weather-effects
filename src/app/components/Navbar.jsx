@@ -33,7 +33,9 @@ export default function Navbar() {
           <Link
             key={href}
             href={href}
-            className={`group flex items-center transition-colors relative px-2`}
+            className={`group flex items-center transition-colors relative px-2 ${
+              isActive ? 'text-zinc-900' : 'text-zinc-500 hover:text-zinc-900'
+            }`}
             style={{ minWidth: 120 }}
           >
             <span
