@@ -14,7 +14,7 @@
     "@react-three/fiber": "^9.1.2",
     "gsap": "^3.13.0",
     "maath": "^0.10.8",
-    "next": "15.3.4",
+    "next": "^15.5.25",
     "raw-loader": "^4.0.2",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
@@ -24,7 +24,7 @@
     "@eslint/eslintrc": "^3",
     "@tailwindcss/postcss": "^4",
     "eslint": "^9",
-    "eslint-config-next": "15.3.4",
+    "eslint-config-next": "^15.5.25",
     "tailwindcss": "^4"
   }
 }
